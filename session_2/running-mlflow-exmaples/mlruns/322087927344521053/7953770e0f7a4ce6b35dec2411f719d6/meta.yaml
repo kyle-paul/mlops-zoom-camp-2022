@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kylepaul/notebooks/mlops-zoom-camp-2022/session_2/running-mlflow-exmaples/mlruns/322087927344521053/7953770e0f7a4ce6b35dec2411f719d6/artifacts
+end_time: 1685481107585
+entry_point_name: ''
+experiment_id: '322087927344521053'
+lifecycle_stage: active
+run_id: 7953770e0f7a4ce6b35dec2411f719d6
+run_name: bouncy-flea-738
+run_uuid: 7953770e0f7a4ce6b35dec2411f719d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685481107532
+status: 4
+tags: []
+user_id: kylepaul

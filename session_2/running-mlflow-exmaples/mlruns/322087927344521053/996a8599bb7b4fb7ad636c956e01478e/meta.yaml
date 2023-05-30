@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kylepaul/notebooks/mlops-zoom-camp-2022/session_2/running-mlflow-exmaples/mlruns/322087927344521053/996a8599bb7b4fb7ad636c956e01478e/artifacts
+end_time: 1685481097303
+entry_point_name: ''
+experiment_id: '322087927344521053'
+lifecycle_stage: active
+run_id: 996a8599bb7b4fb7ad636c956e01478e
+run_name: polite-wolf-713
+run_uuid: 996a8599bb7b4fb7ad636c956e01478e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685481097245
+status: 4
+tags: []
+user_id: kylepaul

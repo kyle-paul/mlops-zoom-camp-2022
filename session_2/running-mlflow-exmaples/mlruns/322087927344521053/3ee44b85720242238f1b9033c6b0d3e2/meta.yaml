@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kylepaul/notebooks/mlops-zoom-camp-2022/session_2/running-mlflow-exmaples/mlruns/322087927344521053/3ee44b85720242238f1b9033c6b0d3e2/artifacts
+end_time: 1685481148713
+entry_point_name: ''
+experiment_id: '322087927344521053'
+lifecycle_stage: active
+run_id: 3ee44b85720242238f1b9033c6b0d3e2
+run_name: bustling-newt-605
+run_uuid: 3ee44b85720242238f1b9033c6b0d3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685481145502
+status: 3
+tags: []
+user_id: kylepaul
