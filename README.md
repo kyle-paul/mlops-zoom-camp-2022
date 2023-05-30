@@ -1,1 +1,1 @@
-# mlops-zoom-camp
+# MLops Zoomcamp 2022
